@@ -1,14 +1,12 @@
 {
   "name": "commands",
   "main": "./lib/commands",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Store your commands and run them with buttons",
-
   "repository": "https://github.com/SquidEpps/commands",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
